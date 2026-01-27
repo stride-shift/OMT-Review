@@ -2,316 +2,470 @@
 
 ## 1. Executive Summary
 
-This comprehensive analysis of 11 discovery interviews with Oppenheimer Memorial Trust (OMT) review committee members reveals a sophisticated but strained evaluation system balancing human judgment with standardized assessment. The research uncovers significant tensions between the current 1-4 scoring rubric and reviewers' nuanced evaluative practices, with most reviewers developing elaborate workarounds to capture their holistic judgments within rigid scoring constraints.
+This comprehensive analysis synthesizes 11 discovery interviews conducted with Oppenheimer Memorial Trust (OMT) review committee members between January 12-27, 2026. The interviews reveal a review process characterized by dedicated, thoughtful assessors who balance structured rubric-based evaluation with nuanced human judgment, while navigating significant tensions between standardization and contextual sensitivity.
 
-Key findings indicate that reviewers value authenticity, narrative coherence, and societal impact above pure academic metrics, employing what Martin Clark termed "tacit knowledge" to assess applications. However, the review process faces mounting challenges from AI-generated content, cultural biases, and inconsistent application quality across institutions. Most notably, reviewers demonstrate sophisticated understanding of their own limitations while expressing cautious optimism about AI assistance for routine tasks—provided human judgment remains central to final decisions.
+**Key Findings:**
 
-The analysis reveals consensus around AI's potential for preliminary screening, data verification, and administrative support, but strong resistance to automated decision-making. Reviewers consistently emphasize the irreplaceable value of human interpretation for assessing motivation, context, and potential. This creates a clear pathway for AI integration focused on augmenting rather than replacing human expertise, with particular emphasis on maintaining transparency and reviewer autonomy.
+The review process operates as a **hybrid system** where formal rubrics provide structure but frequently prove inadequate for capturing the complexity of candidate assessment. Reviewers consistently describe a pattern of "retrofitting"—completing rubric scoring, then adjusting scores to align with their holistic judgment. This gap between mechanical scoring and authentic assessment represents the central tension in the current system.
 
-Strategic implications point toward a phased approach to AI integration, starting with low-risk administrative tasks while addressing immediate pain points through rubric refinement and improved reviewer feedback mechanisms. The research suggests that successful AI implementation will require careful attention to reviewer trust, cultural sensitivity, and the preservation of the humanistic values that define OMT's evaluation philosophy.
+**Critical Pain Points:**
+
+1. **The Rubric Problem**: The 1-4 scoring scale lacks sufficient granularity, with reviewers struggling particularly to distinguish between scores of 3 and 4. Multiple reviewers described the scale as "blunt," "too coarse," and insufficient for meaningful differentiation, especially among high-performing candidates.
+
+2. **AI-Generated Content Crisis**: A growing concern across reviewers is the inability to detect AI-generated motivation letters and proposals, undermining the validity of written assessments. This threatens one of the primary mechanisms for understanding authentic candidate voice and motivation.
+
+3. **The Cold Start Problem**: Reviewers struggle with initial applications in each cycle, lacking reference points for calibration. This creates potential unfairness for candidates reviewed early in the process.
+
+4. **Inconsistent Interpretation**: Despite standardized rubrics, significant variation exists in how criteria are interpreted across reviewers, with no formal calibration mechanism to ensure consistency.
+
+**Consensus Areas:**
+
+- **Portfolio/practical work** (for creative disciplines) and **academic records** provide the most reliable objective assessment data
+- **Motivation and personal narrative** matter deeply but are increasingly compromised by AI generation
+- **Alignment and coherence** across application components serves as a crucial validation mechanism
+- **Context matters**: Reviewers universally attempt to assess "excellence relative to circumstance," though struggle with how to systematize this
+- **Human judgment is irreplaceable** for nuanced assessment, particularly for motivation, fit, and probability of success
+
+**Strategic Implications:**
+
+The interviews reveal an assessment system under pressure from multiple directions: increasing application volumes, technological disruption (AI-generated content), disciplinary diversity requiring specialized knowledge, and inherent tensions between standardization (for fairness) and flexibility (for accuracy). 
+
+Most critically, **reviewers do not want AI to replace their judgment**—they want it to reduce "superfluous cognitive load" on administrative tasks while preserving their role in nuanced evaluation. There is strong consensus that AI should handle: (1) initial screening for completeness and basic eligibility, (2) factual data compilation and verification, (3) providing disciplinary context for specialized fields, and (4) flagging potential inconsistencies. However, AI must not: (1) make final recommendations, (2) pre-structure judgment through summaries that create anchoring bias, (3) assess motivation or fit, or (4) replace human evaluation of probability of success.
+
+The path forward requires **thoughtful augmentation rather than automation**—supporting reviewer judgment while addressing legitimate efficiency and consistency concerns. The system's future success depends on preserving what makes OMT distinctive (holistic, mission-driven candidate assessment) while addressing structural limitations that create reviewer burden and potential unfairness to applicants.
+
+---
 
 ## 2. Methodology
 
-- 11 substantive semi-structured discovery interviews (Jan 12-27, 2026)
-- Interviews conducted by StrideShift with OMT review committee members
-- Notes captured via Google Gemini transcription
-- Analyzed using iterative thematic analysis with AI-assisted coding (Haiku for individual extraction, Sonnet for synthesis)
-- Note: 4 additional recordings contained scheduling/internal discussions and were excluded
+**Study Design:**
+- 11 substantive semi-structured discovery interviews conducted January 12-27, 2026
+- Interviews led by StrideShift (Justin Germishuys and Barbara Dale-Jones) with OMT review committee members
+- Duration: 30-60 minutes per interview
+- Confidentiality assured to participants; transcripts not shared with OMT
+
+**Data Collection:**
+- Real-time transcription via Google Gemini
+- Interviews covered: current review workflow, evaluation criteria, pain points, views on technology/AI, suggestions for improvement
+- Open-ended questioning allowing emergent themes
+- Probing for specific examples, edge cases, and tacit knowledge
+
+**Data Analysis:**
+- Iterative thematic analysis with AI-assisted coding
+- Individual interview extraction performed using Claude Haiku
+- Cross-interview synthesis performed using Claude Sonnet
+- Manual validation and refinement of AI-identified themes
+- Quote verification against raw transcripts
+- Pattern identification across disciplinary boundaries
+
+**Sample Characteristics:**
+- Reviewers span humanities, sciences, engineering, business, and creative arts
+- Experience ranges from 2-3 years to long-standing involvement
+- Includes reviewers at different institutional contexts and career stages
+- Mix of disciplinary specialists and those reviewing across fields
+
+**Limitations:**
+- 4 additional recordings contained scheduling/internal discussions and were excluded from analysis
+- Self-reported processes may not fully capture unconscious decision-making
+- Sample limited to active reviewers (does not include those who declined or stopped reviewing)
+- Timing (January 2026) means recent process changes may not be fully reflected
+
+---
 
 ## 3. Participant Profiles
 
-| Name | Institution | Discipline | Years Reviewing | Application Types |
-|------|-------------|------------|-----------------|-------------------|
-| **Dina Ligaga** | University of the Witwatersrand | Media & Cultural Studies, Literature, Gender Studies | 2022-present (4 years) | Humanities applications, Masters and PhD |
-| **Edzai Conilias Zvobwo** | Not specified | Science and Mathematics | 2019-present (7 years) | Science/STEM applications across sub-disciplines |
-| **Freedom Gumedze** | University of Cape Town | Biostatistics, Applied Health Research | Multiple years | Masters, PhD, Postdoc, Sabbatical across levels |
-| **Frelet De Villiers** | University of Free State | Music/Arts | 4-5 years | Arts/Music applications |
-| **Martin Clark** | University of Free State | Geology/Earth Sciences | 3-4 years | Masters, PhD, Sabbatical with interdisciplinary exposure |
-| **Maureen De Jager** | Rhodes University | Fine Arts | ~3 years | Creative Arts, primarily Fine Arts applications |
-| **Mohamed Cassim** | Independent Consultant | Finance/Strategy (Pharmacy, MBA background) | Multiple years | Financial applications, cross-disciplinary |
-| **Philippe Burger** | University of Free State | Economics/Macroeconomics | 2-3 years | Business management, economics applications |
-| **Pieter Pistorius** | University of Pretoria | Metallurgical Engineering | ~3 years | Engineering applications |
-| **Ryan Nefdt** | University of Cape Town | Philosophy | Multiple years | Humanities (philosophy, linguistics, fine art, sociology) |
-| **Frasia Oosthuizen** | Not specified | Pharmaceutical Sciences | Long-term (pre-online system) | Health Sciences, multiple disciplines |
+| **Name** | **Institution** | **Discipline** | **Years Reviewing** | **Application Types Reviewed** |
+|----------|----------------|----------------|---------------------|-------------------------------|
+| **Dina Ligaga** | Wits University (VIT context mentioned) | Media and Cultural Studies, Literature, Gender Studies | ~4 years (since 2022) | Humanities; Masters and PhD levels |
+| **Edzai Zvobwo** | Own analytics/AI company | Science and Mathematics (broad spectrum) | ~5-7 years (since pre-COVID, ~2019) | Natural sciences; full spectrum of levels |
+| **Freedom Gumedze** | University of Cape Town | Biostatistics, Statistical Sciences | ~3-4 years | Statistics/data science; Masters, PhD, Postdoc, Sabbatical |
+| **Frelet De Villiers** | University of the Free State | Music (Creative Arts) | ~4-5 years | Creative arts (primarily fine art, also performance, graphic design); postgraduate levels |
+| **Martin Clark** | University of the Free State | Geology/Earth Sciences | ~3-4 years | Earth sciences broadly; Masters, PhD, Postdoc/Sabbatical |
+| **Maureen De Jager** | Rhodes University | Fine Art (practice-based research) | ~3 years | Creative arts (fine art focus); Masters and PhD |
+| **Mohamed Cassim** | Africa Climate Ventures (Co-founder) | Development Economics, Strategy, Public/Private Sector | Unspecified duration | Financial applications (notes feels pigeonholed); postgraduate levels |
+| **Philippe Burger** | University of the Free State | Economics, Macroeconomics | ~2-3 years | Business management and economics; Masters, PhD, Scholar levels |
+| **Pieter Pistorius** | University of Pretoria | Metallurgical Engineering | ~3 years | Engineering; postgraduate levels including sabbaticals |
+| **Ryan Nefdt** | University of Cape Town | Philosophy, Linguistics | Ongoing (multiple cycles) | Humanities (philosophy, fine art, sociology, linguistics, AI); postgraduate levels |
+| **Frasia Oosthuizen** | Pharmaceutical Sciences (institution not specified) | Pharmacology, Pharmacy | Long-standing (pre-online system) | Health sciences broadly; Masters, PhD, Postdoc, Sabbatical |
+
+---
 
 ## 4. Detailed Thematic Analysis
 
 ### 4.1 The Review Workflow: From Application to Decision
 
-The analysis reveals three primary workflow patterns across reviewers, with individual variations reflecting disciplinary differences and personal preferences.
+#### Common Workflow Patterns
 
-**Pattern 1: Sequential Deep Reading (Most Common)**
-The majority of reviewers, including Freedom Gumedze, Frasia Oosthuizen, and Ryan Nefdt, follow a systematic approach: "I start by reading entire portfolio/proposal thoroughly" (Freedom Gumedze, Jan 26). This involves reading all materials first, then applying the rubric systematically. As Ryan Nefdt explained: "I read the submission and reviewing it systematically against the OMT rubric, particularly when dealing with a stack of 20 or 30 applications" (Ryan Nefdt, Jan 21).
+Despite disciplinary differences, reviewers converge on a **three-phase workflow structure**:
 
-**Pattern 2: Comparative Overview First**
-Some reviewers, notably Maureen De Jager and Philippe Burger, begin with a scanning phase across all applications. Maureen described this as "comparative, particularly when dealing with multiple submissions, which helps establish an overall lay of the land before looking at each application specifically" (Maureen De Jager, Jan 22). Philippe Burger similarly uses "Initial Classification: Sorting applications by degree level (Masters, PhDs, Scholars)" before detailed review (Philippe Burger, Jan 13).
+**Phase 1: Initial Orientation** (5-30 minutes)
+- Most reviewers begin with an **overview scan** to understand the applicant pool
+- Some read applications fully before applying rubric; others work simultaneously
+- Dina Ligaga: Opens application and reviews "candidate's background, motivation, proposed study, CV, transcripts" before detailed scoring (Ligaga, Jan 12)
+- Maureen De Jager: "Skims through all applications to get an overall lay of the land" before detailed assessment (De Jager, Jan 22)
+- Pieter Pistorius: Conducts "quick five-minute scan of the applicants to see who they are" before deep review (Pistorius, Jan 19)
 
-**Pattern 3: Batch Processing by Level**
-Several reviewers, including Martin Clark and Frasia Oosthuizen, organize their work by application level. Martin noted: "Parcels applications by level (Master's, PhD, Sabbatical)" and "Reviews 5-10 applications per sitting to avoid 'adjudication fatigue'" (Martin Clark, Jan 15).
+**Phase 2: Detailed Document Review** (30-60 minutes per application)
+- **Reading sequence varies** but most follow: motivation letter → academic record → proposal → references → budget
+- Ryan Nefdt: "First examines the background section, looking for a cohesive narrative that connects the applicant's life story to their studies and academic goals" (Nefdt, Jan 21)
+- Freedom Gumedze: Reviews "core content" including what proposal is about, whether applicant has sufficient background, institutional acceptance status (Gumedze, Jan 26)
+- Frasia Oosthuizen: Reads "motivation letter first (to understand 'who this candidate is'), then prior academic performance and marks, then proposal/study design, then references/academic history, then photo, then referee reports, then budget information" (Oosthuizen, Jan 27)
 
-**Time Investment and Workload**
-Time commitments vary significantly but are universally substantial. Pieter Pistorius reported "45-60 minutes per application over 2-3 evenings" plus "a final 20-minute consistency check across all applications" (Pieter Pistorius, Jan 19). Frasia Oosthuizen described spending "a good few solid hours" per batch (Frasia Oosthuizen, Jan 27), while Mohamed Cassim spreads his review "over several nights" (Mohamed Cassim, Jan 20).
+**Note-Taking Practices:**
+- Extensive handwritten notes common (Ligaga, Pistorius)
+- Notes often not fully translated to final written assessments
+- Dina Ligaga: Takes "extensive notes in a notebook during review" but struggles with "converting notes to final written form" (Ligaga, Jan 12)
 
-**Current Tools and Systems**
-All reviewers use OMT's online platform, with mixed satisfaction levels. Dina Ligaga expressed frustration with the "multi-window interface" calling it "frustrating and time-consuming" (Dina Ligaga, Jan 12). However, Edzai noted that "the past year was the first time software was used for the review process, as it was previously done manually with an Excel spreadsheet, which made the software quite convenient" (Edzai Conilias Zvobwo, Jan 13).
+**Phase 3: Scoring and Calibration** (20-45 minutes post-review)
+- **Iterative scoring**: Initial scores assigned, then adjusted based on comparative context
+- Maureen De Jager: "Frequently returns to adjust final scores if calculated rating doesn't match strength of submission" (De Jager, Jan 22)
+- Philippe Burger: "Creates provisional ranking that is adjusted as more candidates are reviewed; revisits rankings after reviewing 5-6 candidates" (Burger, Jan 13)
+- Pieter Pistorius: "Reviews overall ratings after completing all applications; looks for outliers and halo effects" (Pistorius, Jan 19)
+
+#### Individual Variations and Why They Exist
+
+**Disciplinary Adaptations:**
+
+**Creative Arts Reviewers** (De Villiers, De Jager):
+- Portfolio examination is central and time-intensive
+- Must contextualize visual/performance work requiring specialized interpretation
+- Maureen De Jager: Portfolio review is "absolutely critical" and "highly detrimental if absent" for creative degrees (De Jager, Jan 22)
+
+**STEM Reviewers** (Zvobwo, Gumedze, Clark):
+- Focus on publication metrics, research standing, methodological rigor
+- Freedom Gumedze: Uses external sources (Google Scholar, Scopus, bibliometrics) to verify research quality (Gumedze, Jan 26)
+- May need to research specialized topics outside immediate expertise
+
+**Interdisciplinary Reviewers** (Nefdt, Cassim):
+- Must navigate multiple disciplinary standards
+- Ryan Nefdt: Reviews across "fine art, sociology, linguistics, AI" requiring understanding of "different conduits to societal impact" (Nefdt, Jan 21)
+
+**Batch Management Strategies:**
+- Frasia Oosthuizen: Groups by level (Masters together, PhDs together) and attempts to complete each category in single day for consistency (Oosthuizen, Jan 27)
+- Martin Clark: "Allocates time carefully to avoid adjudication fatigue, typically reading no more than 5-10 applications in one sitting" (Clark, Jan 15)
+- Edzai Zvobwo: Works through multiple evenings, taking breaks to avoid "mind-numbing" effects (Zvobwo, Jan 13)
+
+**Rubric-First vs. Read-First Approaches:**
+
+Some apply rubric during reading (Nefdt, Burger), others read fully first then apply rubric (De Jager, Oosthuizen):
+- Ryan Nefdt: "Reads submission and rubric simultaneously when time-constrained" but prefers reading "once independently without predisposing it to rubric categories" (Nefdt, Jan 21)
+- Frasia Oosthuizen: "Reads the full application first...only after forming initial impressions" applies rubric (Oosthuizen, Jan 27)
+
+#### Time Investment and Workload
+
+**Per-Application Time:**
+- **Masters applications**: 30-45 minutes (Ligaga, Pistorius)
+- **PhD/Postdoc applications**: 45 minutes to 1 hour (Pistorius, Gumedze)
+- **Sabbatical applications**: Variable, often less structured requiring more interpretation
+
+**Total Time Commitment:**
+- Pieter Pistorius: "2-3 evenings total" within 2-week turnaround (Pistorius, Jan 19)
+- Frasia Oosthuizen: "A good few solid hours of work" to complete entire batch (Oosthuizen, Jan 27)
+- Martin Clark: Emphasizes need to avoid "adjudication fatigue" by limiting consecutive reviews (Clark, Jan 15)
+
+**Workload Context:**
+- Dina Ligaga: Review occurs "during busy period when also marking exams" (Ligaga, Jan 12)
+- Most reviewers note this is **volunteer work** conducted alongside primary employment
+- Pieter Pistorius: "It is a lot of hours that you burn but you know it's once a year so it's not a catastrophe" (Pistorius, Jan 19)
+
+#### Tools and Systems Currently Used
+
+**OMT Platform:**
+- Web-based system with **dual-screen capability** praised by most reviewers
+- Frelet De Villiers: "The Oppenheimer's website is really very user friendly because you can have the split screen and everything is really available" compared favorably to NRF system (De Villiers, Jan 26)
+- Frasia Oosthuizen: "Two-page format with rubric displayed on one side, application on the other" works effectively (Oosthuizen, Jan 27)
+
+**Previous System Issues:**
+- Dina Ligaga: "Excel sheets with comparative review process (no longer in use)" was more cumbersome (Ligaga, Jan 12)
+- System has improved but **navigation remains challenging** for some
+
+**External Tools:**
+- Freedom Gumedze: Uses "Google Scholar, Scopus, bibliometrics systems, NRF rating information" to verify research quality (Gumedze, Jan 26)
+- Mohamed Cassim: Manually verifies "institutional performance and financial statements" to validate CV claims (Cassim, Jan 20)
+- Reviewers frequently use Google for discipline-specific terminology (Nefdt, De Villiers)
+
+**Personal Tools:**
+- Handwritten notes (Ligaga, Pistorius, De Jager)
+- Timeline diagrams to track academic progression (Pistorius)
+- Spreadsheets for comparative tracking (historical, no longer used)
+
+#### How Scoring Works (Rubric Mechanics)
+
+**Scale Structure:**
+- Primary scale: **1-4 point system** (1=fail/poor, 2=fair, 3=good, 4=excellent)
+- Some categories use **5-point final scale** for overall assessment
+- Dina Ligaga: "Uses rubric with 4-point scale...for tick-box scoring" followed by "final judgment call on recommendation status" (Ligaga, Jan 12)
+
+**Scoring Process:**
+- Reviewers complete rubric section by section
+- Each criterion scored independently, then synthesized
+- Philippe Burger: Uses "3 as average baseline" with adjustments for above/below average performance (Burger, Jan 13)
+
+**The "Retrofit" Pattern:**
+- **Critical finding**: Many reviewers adjust rubric scores to align with holistic judgment
+- Dina Ligaga: "Sometimes adjusts rubric scores to align with overall intuitive assessment...marks up or down scores to match overall conviction" (Ligaga, Jan 12)
+- Maureen De Jager: Uses initial impression "to override mechanical scoring...described as 'retrofit'—tweaking scores to reflect actual quality assessment" (De Jager, Jan 22)
+- This suggests **rubric serves as structured justification** for pre-existing holistic judgment rather than primary decision mechanism
+
+**Comparative Calibration:**
+- Ryan Nefdt: "Reviews across the application pool within a cycle and adjusts scores to ensure consistency and fairness" (Nefdt, Jan 21)
+- Philippe Burger: "Reads through 10-12 applications before settling on final scores to establish relative benchmarking context" (Burger, Jan 13)
+- Frasia Oosthuizen: "Explicitly adjusts previous scores if new candidates reveal that earlier scores were disproportionate" (Oosthuizen, Jan 27)
+
+---
 
 ### 4.2 The Rubric Problem: Constraints and Workarounds
 
-The 1-4 scoring system emerged as the most significant pain point across interviews, with reviewers developing sophisticated workarounds to manage its limitations.
+The rubric emerged as the **single most discussed frustration** across all interviews, revealing fundamental tensions between structured evaluation and authentic assessment.
 
-**The Core Problem: Limited Granularity**
-Dina Ligaga captured this perfectly: "Excellence can be 75% and sometimes it can be 90% - and those are very different types of excellence" (Dina Ligaga, Jan 12). She elaborated: "Sometimes I have to go back and either mark up or mark down just so the final tally kind of looks like what the person deserves" (Dina Ligaga, Jan 12). Martin Clark similarly noted the need for "more nebulous, flexible definition of excellence" and "broader understanding of candidate potential" (Martin Clark, Jan 15).
+#### How the 1-4 Scoring System Works and Its Limitations
 
-**Workaround 1: Retrofitting Scores**
-Multiple reviewers described adjusting scores to match their holistic judgment. Maureen De Jager called this "retrofit" - "adjusting the final score if the initial impression suggests a different strength than the calculated rating" (Maureen De Jager, Jan 22). This represents a fundamental disconnect between the rubric's design and evaluative practice.
+**Scale Definition:**
+- 1 = Fail/Does not meet criteria
+- 2 = Poor/Marginally meets criteria  
+- 3 = Good/Meets criteria satisfactorily
+- 4 = Excellent/Exceeds criteria
 
-**Workaround 2: Starting High and Adjusting Down**
-Frelet De Villiers revealed a unique approach: "I always start on a four. So, if I read through something, the candidate has a four. As I go further, I will then go, no, this is actually a three" (Frelet De Villiers, Jan 26). This inverts the traditional evaluation approach and suggests the rubric fails to capture initial positive impressions.
+**The "Fuzziness" Between 3 and 4:**
 
-**Workaround 3: Narrative Compensation**
-Several reviewers compensate for scoring limitations through detailed written feedback. As Pieter Pistorius noted: "Uses a 4-5 point scoring rubric" but "Writes 2-3 sentence rationale for scoring" (Pieter Pistorius, Jan 19).
+Dina Ligaga: "There's a **fuzziness between scores 3 and 4**—the distinction is unclear and subjective...only 4-point scale doesn't capture nuance of excellence" (Ligaga, Jan 12)
 
-**The Subjectivity Challenge**
-Philippe Burger identified a core issue: "Assigning a score is always somewhat subjective, as it involves translating an impression into a numerical score" (Philippe Burger, Jan 13). Mohamed Cassim was more direct about rubric categories like "extraordinary talent," calling them "too subjective" (Mohamed Cassim, Jan 20).
+This "fuzzy zone" represents the critical differentiation point where most competitive candidates cluster, yet the rubric provides no clear guidance:
+
+Philippe Burger: "Five points isn't always enough to discriminate one against the other...you look for that little extra that would carry it from a three to a four or four to a five" (Burger, Jan 13)
+
+Edzai Zvobwo: "Numbers become 'fuzzy'—reviewers lose clarity on what distinguishes a 3 from a 4...lack of clear boundaries in scoring scale...consistency deteriorates as fatigue sets in" (Zvobwo, Jan 13)
+
+**Insufficient Gradation Problem:**
+
+The scale lacks resolution for **meaningful differentiation among strong candidates**:
+
+Dina Ligaga: "Cannot distinguish between 75% excellent and 90% excellent...feels overly rigid and doesn't capture complexity of judgment" (Ligaga, Jan 12)
+
+Edzai Zvobwo: "0-4 scale has bins that are 'too big'...'high quality three' and 'low quality three' bunched together indistinguishably...cannot adequately differentiate within quartiles" (Zvobwo, Jan 13)
+
+Martin Clark: "4-point rubric scale (potentially divided into 25% increments) insufficient to distinguish between candidates at similar levels (e.g., difference between 75% and 100%)" (Clark, Jan 15)
+
+**Level-Specific Problems:**
+
+Different degree levels require different standards, but rubric doesn't adapt:
+
+Freedom Gumedze: "The master's programs are changing. The rubric is built on a master's by dissertation...if you're think about statistics data science those disciplines the masters really is course work and the dissertation is is just a small part..." (Gumedze, Jan 26)
+
+- **Masters applications**: High volume makes fine differentiation crucial yet scale is too coarse
+- **PhD applications**: Require demonstration of mastery, but rubric doesn't capture sophistication adequately
+- **Postdoc/Sabbatical**: Different rubrics exist but still constrained
+
+#### Workarounds Reviewers Have Developed
+
+**1. The "Retrofit" Strategy:**
+
+Reviewers complete mechanical scoring, then adjust to match authentic assessment:
+
+Maureen De Jager: "Frequently returns to adjust final scores if calculated rating doesn't match strength of submission...uses initial impression (often reinforced through detailed review) to override mechanical scoring" (De Jager, Jan 22)
+
+Dina Ligaga: Describes "phase as losing confidence—worries about whether scoring is accurate...rubric process 'boxes them in' and 'slows them down'" (Ligaga, Jan 12)
+
+**2. Starting High/Low to Counter Halo Effects:**
+
+Martin Clark: Consciously forces "extreme scoring initially" to counteract halo effect bias toward applications in familiar research areas (Clark, Jan 15)
+
+**3. Ignoring Problematic Criteria:**
+
+Frasia Oosthuizen: "Has 'ignored it but consistently in a group'—meaning she adapts the rubric interpretation within each batch but acknowledges this may differ from other reviewers" (Oosthuizen, Jan 27)
+
+Ryan Nefdt: When rubric criteria don't fit discipline (e.g., theoretical humanities work with unclear societal impact pathways), applies professional judgment outside rubric structure (Nefdt, Jan 21)
+
+**4. Comparative Recalibration:**
+
+Philippe Burger: "Creates provisional ranking that is adjusted as more candidates are reviewed; revisits rankings after reviewing 5-6 candidates to establish relative positions" (Burger, Jan 13)
+
+Frasia Oosthuizen: "If scoring a fifth candidate, may flip back to reconsider scores of earlier candidates...'I gave this one a four but really then that one shouldn't have been a four. It should have been a three'" (Oosthuizen, Jan 27)
+
+**5. Detailed Written Commentary:**
+
+When rubric fails to capture nuance, reviewers rely on **narrative justification**:
+
+Martin Clark: "Adds comments explaining nuanced decisions, particularly where perception of grade conflicts with rubric requirements" (Clark, Jan 15)
+
+However, this creates its own problems:
+- Dina Ligaga: "Written reports have grown progressively shorter—often only 1-2 lines after rubric completion" despite extensive note-taking (Ligaga, Jan 12)
+- Uncertain whether lengthy commentary is valued by OMT decision-makers
+
+#### The Gap Between Rubric Scores and Holistic Judgment
+
+This represents the **core tension** in the review process:
+
+**The Rubric Cannot Capture:**
+
+1. **Tacit Knowledge and Pattern Recognition:**
+
+Martin Clark: Brings "expert judgment, or 'tacet knowledge,' to the process, which involves recognizing patterns, such as a positive outlook for change" (Clark, Jan 15)
+
+Edzai Zvobwo: Can "fairly quickly distinguish between 'blustering' and actual achievement" based on sector experience (Zvobwo, Jan 13)
+
+2. **Contextual Excellence:**
+
+Martin Clark: "Excellence can be measured whether it is from a lay person's perspective or from an absolute a disciplined leader...there are backgrounds and life paths that are different than my own and it does not mean that a different life path or a life path that appears to be less developmental or less of a straight line towards excellence should be precluded from excellence" (Clark, Jan 15)
+
+Philippe Burger: Must evaluate "excellence relative to circumstance" considering socioeconomic background diversity, but rubric provides no framework for this (Burger, Jan 13)
+
+3. **Alignment and Coherence:**
+
+Frasia Oosthuizen: "Tests if everything 'makes sense from the motivation through to the referee reports'...if components align, she feels 'more confident that I have an understanding of who this candidate is and that my mark...is a better reflection'" (Oosthuizen, Jan 27)
+
+This **holistic coherence** assessment is central to most reviewers' confidence in their ratings but isn't explicitly scored in rubric.
+
+4. **Probability of Delivery vs. Merit of Intent:**
+
+Mohamed Cassim: "It's not quite simply about the merit of the intent...everybody can write a brilliant piece of intent. It's also about the probability of that being delivered" (Cassim, Jan 20)
+
+Rubric assesses proposal quality but not realistic capability to execute.
+
+**Consequences of This Gap:**
+
+1. **Subjectivity Despite Structure:**
+
+Philippe Burger: "There's always...in that because you do a translation of what your impression into a score. Um so there will always be something...in there that's a bit subjective" (Burger, Jan 13)
+
+2. **Inconsistency Across Reviewers:**
+
+Freedom Gumedze: "I would like to know...do they take a sort of like combination of scores from the group...I want to know at the end what they decide so that maybe we can calibrate" (Gumedze, Jan 26)
+
+Without knowing how other reviewers interpret criteria, consistency cannot be ensured.
+
+3. **Decision Uncertainty:**
+
+Dina Ligaga: Describes "negotiation and uncertainty" where reviewer must "perform mental gymnastics to align scores with actual conviction" (Ligaga, Jan 12)
+
+#### Specific Suggestions for Improvement
+
+**1. Expand Scoring Range (Highest Priority Across Multiple Reviewers):**
+
+Dina Ligaga: "Current 4-point scale insufficient...should allow differentiation between '75% excellent' and '90% excellent'...particularly critical for Masters applications due to high volume" (Ligaga, Jan 12)
+
+Edzai Zvobwo: "0-4 scale...bin size is too big...high quality three and a low quality three, they're all bunched up...scale feels too coarse-grained for nuanced assessment" (Zvobwo, Jan 13)
+
+**2. Add Dimensionality to Capture Nuance:**
+
+Dina Ligaga: Current rubric is "too 'blunt'...needs more gradations to capture the full range of high-performing candidates" (Ligaga, Jan 12)
+
+**3. Rubric Flexibility for Missing Data:**
+
+Frasia Oosthuizen: "Add option to exclude marks that haven't been released yet...these shouldn't penalize candidates when data is simply unavailable at submission time" (Oosthuizen, Jan 27)
+
+**4. Discipline-Specific Rubric Variations:**
+
+Freedom Gumedze: "Rubric categories could 'change based off of discipline or category'...adjust expectations according to field-specific norms...different emphasis for Master's, PhD, and postdoctoral applications" (Gumedze, Jan 26)
+
+Martin Clark: "Rubric is 'rather rigid' and doesn't accommodate disciplinary differences...specific metrics (e.g., Golden Key Society membership) disadvantage otherwise excellent candidates who lack access to resources" (Clark, Jan 15)
+
+**5. Clearer Scoring Guidance:**
+
+Frasia Oosthuizen: "Referee report criteria explicitly state need for 'exceptional' language, but referees rarely use that exact terminology...creates disconnect between rubric expectations and actual referee practice" (Oosthuizen, Jan 27)
+
+Ryan Nefdt: "P rating (future leader potential) should score higher than C rating...fewer people achieve P rating; should reflect difficulty" (Nefdt, Jan 21)
+
+**6. Reframe Problematic Questions:**
+
+Maureen De Jager: "Personal Motivation question asks for background/interests but rubric seeks evidence of 'values and priorities'...space constraints mean candidates often only cover background, not deeper values" (De Jager, Jan 22)
+
+**Significance to South African Society** question particularly problematic:
+
+Maureen De Jager: "Practice in its nature is exploratory...it's very difficult to know before you've even set out on this journey where you're going to end up...in a lot of cases it's a bit of a thumb suck" (De Jager, Jan 22)
+
+---
 
 ### 4.3 What Makes an Excellent Application: Criteria and Judgment
 
-Analysis reveals both universal and discipline-specific evaluation criteria, with significant emphasis on narrative coherence and authenticity.
+#### Universal Criteria (What Everyone Looks For)
 
-**Universal Criteria: The Coherent Narrative**
-Across all disciplines, reviewers prioritize what Ryan Nefdt called "cohesive narrative connecting life experience to academic goals" (Ryan Nefdt, Jan 21). Frasia Oosthuizen emphasized "Holistic alignment across: Motivation letter, Research proposal, Academic performance, Referee reports" (Frasia Oosthuizen, Jan 27). This narrative coherence transcends pure academic metrics.
+Despite disciplinary differences, reviewers converge on several **core universal criteria**:
 
-**The Authenticity Imperative**
-Multiple reviewers emphasized genuine motivation over polished presentation. Dina Ligaga valued "Genuine, unique personal motivation" and "Sincerity in personal statement" (Dina Ligaga, Jan 12). Martin Clark was even more explicit: "I always value passion higher than I value cleverness. You can always teach passion but you can't build passion always" (Martin Clark, Jan 15).
+**1. Alignment and Coherence Across Application Components**
 
-**Discipline-Specific Criteria**
+This emerged as the **single most important universal criterion**:
 
-*STEM Applications:*
-Edzai Conilias Zvobwo looked for "Research with broad social impact" and "Solutions addressing fundamental problems," with "preference for work benefiting 'bottom of the pyramid'" (Edzai Conilias Zvobwo, Jan 13). Freedom Gumedze emphasized "Research innovation" and "Clear social impact potential" (Freedom Gumedze, Jan 26).
+Frasia Oosthuizen: "Whether motivation letter, proposal, prior performance, and referee reports all 'tell the same story'...tests if everything 'makes sense from the motivation through to the referee reports'...if components align, feels 'more confident that I have an understanding of who this candidate is'" (Oosthuizen, Jan 27)
 
-*Humanities Applications:*
-Ryan Nefdt noted that "with humanities it's a little bit different. you have to figure out different conduits to um to getting some societal impact" (Ryan Nefdt, Jan 21). The emphasis shifts from direct measurable impact to cultural and intellectual contribution.
+Ryan Nefdt: Looks for "connections between life experience, academic development, and current work...personal story should directly inform and explain academic trajectory" (Nefdt, Jan 21)
 
-*Arts Applications:*
-Maureen De Jager identified unique criteria: "Portfolio as critical assessment element," "Technical and conceptual sophistication," and "Evidence of practical excellence" (Maureen De Jager, Jan 22). She emphasized: "Assessing art requires time and a human element of interpretation, which cannot be easily short-circuited" (Maureen De Jager, Jan 22).
+Dina Ligaga: Examines "'string through' from applicant's background to proposed study...evidence of logical progression and connection between past work and future plans...shows sustained commitment to research area" (Ligaga, Jan 12)
 
-**Red Flags and Warning Signs**
-Several reviewers identified common problems. Philippe Burger noted increasing concerns about "AI-generated essays" and applications with "weak foundational knowledge" (Philippe Burger, Jan 13). Maureen De Jager flagged "Misalignment between written proposals and portfolio quality" (Maureen De Jager, Jan 22).
+**2. Authentic Motivation and Personal Narrative**
 
-**The Context Challenge**
-Multiple reviewers emphasized the importance of contextual evaluation. Martin Clark noted: "Not every applicant has availability of word processing, spell-check engines" (Martin Clark, Jan 15). Edzai observed that "certain schools seem to teach how to answer applications effectively, while others produce applications with bad quality" (Edzai Conilias Zvobwo, Jan 13).
+All reviewers prioritize genuine motivation, though increasingly challenged by AI:
 
-### 4.4 Bias, Subjectivity, and Fairness
+Dina Ligaga: "Seeks genuine, unique, honest motivation...values sincere personal statement about influences and experiences...red flag: Generic motivation immediately signals applicant isn't serious" (Ligaga, Jan 12)
 
-Reviewers demonstrated sophisticated awareness of bias while struggling with practical mitigation strategies.
+Frelet De Villiers: "When you look at the motivation you can see when they are just complaining...you get other people who say I come from the background but I did this with what I have already and I want to achieve this" (De Villiers, Jan 26)
 
-**Acknowledged Biases**
-Several reviewers explicitly recognized their biases. Dina Ligaga admitted "Acknowledges unconscious bias based on applicant's background (race, class)" (Dina Ligaga, Jan 12). Edzai Conilias Zvobwo stated: "I have a personal bias towards impact programs that help the bottom of the pyramid" (Edzai Conilias Zvobwo, Jan 13). Martin Clark noted his approach to "adjudicate from multiple different angles because excellence... can be measured from different perspectives" (Martin Clark, Jan 15).
+Edzai Zvobwo: "Personal narrative has 'the biggest weighting' in final decisions...looks for evidence of resilience and overcoming obstacles...values applicants showing they 'came from a broken home and against all odds...overcome those obstacles'" (Zvobwo, Jan 13)
 
-**Structural Inequalities**
-Multiple reviewers recognized systemic disadvantages. Mohamed Cassim emphasized challenges in "evaluating candidates from different cultural/linguistic backgrounds" (Mohamed Cassim, Jan 20). Philippe Burger noted the need to be "conscious to not penalize people [for language differences]" (Philippe Burger, Jan 13).
+**3. Academic Excellence (With Contextual Considerations)**
 
-**Cultural and Institutional Factors**
-Edzai's observation about institutional preparation differences was particularly insightful: some schools "teach how to answer applications effectively, while others produce applications with bad quality where candidates cannot articulate the impact of their studies" (Edzai Conilias Zvobwo, Jan 13). This suggests systematic disadvantages for students from under-resourced institutions.
+All reviewers consider academic record, but with sophisticated nuance:
 
-**Mitigation Strategies**
-Reviewers employed various fairness strategies. Martin Clark described trying "not to push [scoring] towards my first intuition" (Pieter Pistorius, Jan 19). Frasia Oosthuizen emphasized trying "to be objective, but in something like this which is not based on quantitative values, there is a matter of subjectivity" (Frasia Oosthuizen, Jan 27).
+Philippe Burger: "Strong academic performance is first and most rigorous filter...marks must align with demands of intended institution and program...example: 78% average insufficient for top international universities" (Burger, Jan 13)
 
-**The Reference Letter Problem**
-Several reviewers noted issues with recommendation quality. Ryan Nefdt observed that "recommendation letters lack comparative value" (Ryan Nefdt, Jan 21), while Frasia Oosthuizen noted that "referee reports don't always use 'exceptional' language expected by rubric" (Frasia Oosthuizen, Jan 27).
+Frelet De Villiers: "Academic record is not that important to me because there are circumstances...students just have the most horrible here...or they have a lecturer that doesn't fancy them...I must say that is the least important for me" (De Villiers, Jan 26)
 
-### 4.5 AI in the Review Process: Hopes, Fears, and Boundaries
+Pieter Pistorius: "Some come from absolutely middle class environments, some you can see that the clothes that they wear when they sit in front of you is the clothes that they have...you need to look at that...someone that comes from an impoverished neighborhood may be excellent or mediocre. I don't think our idea is to support a mediocre candidate but you need to look at the social context" (Pistorius, Jan 19)
 
-This theme revealed the most nuanced and strategically important perspectives, with reviewers showing sophisticated understanding of AI's potential and limitations.
+**4. Feasibility and Realism of Proposed Work**
 
-**The Spectrum of Attitudes**
+Universally valued across all disciplines:
 
-*AI Optimists:*
-Martin Clark and Mohamed Cassim showed the most positive attitudes. Martin saw potential for "Logic validation," "Stakeholder perception assessment," and "Data scraping" (Martin Clark, Jan 15). Mohamed wanted AI to "Handle budget verification," "Conduct database searches," and "Perform psychographic analysis" while serving as a "cognitive assistant to reduce superfluous work" (Mohamed Cassim, Jan 20).
+Frelet De Villiers: "Is it really viable? Is it really something that can work? Are sometimes these people they say they are going to have four articles and three conferences and two books. I mean it's just not possible" (De Villiers, Jan 26)
 
-*Cautious Adopters:*
-Most reviewers, including Dina Ligaga, Freedom Gumedze, and Ryan Nefdt, were cautiously open. Dina wanted AI to "Conduct preliminary vetting of applications" and "Provide pre-populated rubric" while maintaining "human ability to override/modify" (Dina Ligaga, Jan 12). Ryan was "interested in AI assistance for: Providing discipline-specific context, Flagging inconsistencies in applications" (Ryan Nefdt, Jan 21).
+Mohamed Cassim: "It's not quite simply about the merit of the intent...everybody can write a brilliant piece of intent. It's also about the probability of that being delivered" (Cassim, Jan 20)
 
-*AI Skeptics:*
-Frelet De Villiers and Maureen De Jager expressed stronger reservations. Frelet was "Skeptical of AI assistance in review process" believing "AI cannot replicate human judgment" (Frelet De Villiers, Jan 26). Maureen was "Somewhat skeptical of AI" while seeing "potential for Initial document filtering" (Maureen De Jager, Jan 22).
+Martin Clark: "Always examines proposed budgets for alignment with project scope...flags excessively high budgets that don't match project needs...flags extremely modest budgets that may indicate unfeasibility" (Clark, Jan 15)
 
-**Consensus: What Reviewers Want AI to Do**
+**5. Evidence of Commitment and Investment**
 
-1. **Administrative Tasks:** All receptive reviewers agreed on AI handling routine tasks. Mohamed wanted "budget verification" and "database searches" (Mohamed Cassim, Jan 20).
+Reviewers look for signals of genuine dedication:
 
-2. **Initial Screening:** Multiple reviewers supported preliminary filtering. Dina wanted AI to "identify which applications need attention" (Dina Ligaga, Jan 12).
+Mohamed Cassim: "Strong believer that financial investment by candidate signals commitment...will comment if candidate hasn't invested own cash (when they have capacity to do so)" (Cassim, Jan 20)
 
-3. **Data Verification:** Freedom Gumedze suggested "Research background verification" and "Bibliometric analysis" (Freedom Gumedze, Jan 26).
+Frasia Oosthuizen: "Wants to understand if candidate has sourced funding or applied for other bursaries...interprets this as indicator of how much 'they want this degree'...views financial commitment as signal of genuine investment" (Oosthuizen, Jan 27)
 
-4. **Context Provision:** Ryan Nefdt valued the potential for "discipline-specific context" to help bridge understanding across domains (Ryan Nefdt, Jan 21).
+#### Discipline-Specific Criteria
 
-**Explicit Boundaries: What AI Must Not Do**
+**STEM Disciplines (Sciences, Engineering, Statistics):**
 
-The consensus was clear about maintaining human control over final decisions. Edzai emphasized wanting "human judgment for empathy, nuance, and final decision-making" (Edzai Conilias Zvobwo, Jan 13). Pieter Pistorius stated: "Eventually the human being must make a final call" (Pieter Pistorius, Jan 19).
+**Publication Quality and Research Standing** (PhD/Postdoc/Sabbatical):
 
-**The AI-Generated Content Detection Problem**
-This emerged as a significant concern. Philippe Burger noted "increasing prevalence of AI-generated essays" and "difficulty distinguishing genuine from AI-written motivation essays" (Philippe Burger, Jan 13). Dina Ligaga was "concerned about AI-generated motivational statements lacking authenticity" (Dina Ligaga, Jan 12).
+Freedom Gumedze: "Depth of understanding of their own research quality...current research impact (not just ratings)...publication venues and quality (not just H-index)...active research networks and collaborations" (Gumedze, Jan 26)
 
-**Trust Conditions and Transparency Requirements**
-Several reviewers emphasized transparency needs. Ryan Nefdt wanted "transparency and trusted insights" and "assistance that doesn't replace human judgment" (Ryan Nefdt, Jan 21). Freedom Gumedze emphasized wanting "human oversight for final judgment" and "transparency and depth of analysis" (Freedom Gumedze, Jan 26).
+**Methodological Rigor:**
 
-**Sophisticated Understanding of AI Limitations**
-Many reviewers demonstrated nuanced AI understanding. Edzai stated: "AI as it is can't reason. It's purely statistical, probabilistic" (Edzai Conilias Zvobwo, Jan 13). Mohamed noted that "AI right now... is built on data that is in the internet... by its very nature AI would go on historic trends when all of us know that the future is not told by history alone" (Mohamed Cassim, Jan 20).
+Freedom Gumedze: For quantitative fields, "quantitative preparedness assessment...South African universities weak in quantitative preparation; flag candidates with only first/second-year statistics modules applying to highly quantitative programs" (Gumedze, Jan 26)
 
-### 4.6 The Feedback Gap and Reviewer Experience
+Philippe Burger: "For PhD applicants: mastery of field literature and existing knowledge base...disciplinary foundation—applicant's intended field of study must align with existing qualifications" (Burger, Jan 13)
 
-This theme revealed significant gaps in reviewer support and development.
+**Innovation and Technical Sophistication:**
 
-**Limited Feedback on Review Quality**
-Most reviewers reported receiving minimal feedback about their evaluation performance. Dina Ligaga noted: "Limited feedback on review process" and questioned whether scores were combined across reviewers (Dina Ligaga, Jan 12). Freedom Gumedze explicitly asked: "I would like to know of the reviews that we have given, do they take a sort of combination of scores from the group?" (Freedom Gumedze, Jan 26).
+Freedom Gumedze: "Innovation & Novelty—uses expertise from editing peer-reviewed journals to assess innovation...looks for novel statistical/methodological approaches" (Gumedze, Jan 26)
 
-**Cross-Reviewer Calibration Issues**
-Several reviewers expressed uncertainty about consistency across evaluators. Edzai raised "a standing question regarding how many reviewers assess the same candidate to potentially debias results" (Edzai Conilias Zvobwo, Jan 13). This suggests limited coordination between reviewers.
+**Humanities (Philosophy, Media Studies, Literature):**
 
-**The Cold Start Problem**
-Edzai identified a systematic issue: "identified the first application as the most difficult to judge due to the lack of a frame of reference, which they suggested could prejudice the person reviewed first" (Edzai Conilias Zvobwo, Jan 13). This suggests need for better benchmarking support.
+**Articulated Societal Impact Pathways:**
 
-**Reviewer Motivation and Satisfaction**
-Despite challenges, most reviewers expressed satisfaction with the role. Frasia Oosthuizen noted: "I enjoy doing this because... it's amazing to see what some young people are achieving" (Frasia Oosthuizen, Jan 27). Pieter Pistorius called it "always quite a humbling experience... the caliber of the candidates" (Pieter Pistorius, Jan 19).
+Ryan Nefdt: "In the science you often like I'm going to publish in high impact journals and that kind of does the job for you...with humanities it's a little bit different. you have to figure out different conduits to getting some societal impact" (Nefdt, Jan 21)
 
-**The Volunteer Nature Challenge**
-Several reviewers noted time pressures. Martin Clark mentioned "Time pressure of pro-bono work" (Martin Clark, Jan 15), while Pieter suggested to "Start review process earlier" to "Allow time to 'sleep on' applications" (Pieter Pistorius, Jan 19).
+However, theoretical work creates tension:
 
-**Suggestions for Improvement**
-Reviewers offered specific suggestions. Freedom Gumedze wanted "cross-reviewer score comparisons" and a "consensus/moderation process" (Freedom Gumedze, Jan 26). Mohamed suggested creating "a more curated scholarship experience" (Mohamed Cassim, Jan 20).
+Ryan Nefdt: "If you are engaging in a theoretical project that is somewhat lacking in terms of your ability to express the societal impact but that theoretical project is so intricate and interesting...sometimes there are issues that are just not going to be able to be translated that well, but they're very intricate...if you're a puzzle master and you're working on an interesting puzzle, sometimes somebody else is going to realize the value of that puzzle" (Nefdt, Jan 21)
 
-## 5. Cross-Cutting Tensions and Paradoxes
+**Narrative Coherence:**
 
-**Tension 1: Standardization vs. Flexibility**
-The most prominent tension exists between OMT's need for standardized evaluation and reviewers' need for contextual flexibility. While the rubric provides comparability, reviewers consistently work around its limitations. As Dina Ligaga noted: "Sometimes I have to go back and either mark up or mark down just so the final tally kind of looks like what the person deserves" (Dina Ligaga, Jan 12). This suggests the current system forces reviewers to game their own evaluation process.
+Ryan Nefdt: "Connections between life experience, academic development, and current work...example: Ryan's own multilingual upbringing directly led to linguistics interests" (Nefdt, Jan 21)
 
-**Tension 2: Efficiency vs. Depth**
-Reviewers want both streamlined processes and meaningful engagement with applications. Mohamed Cassim wanted AI to reduce "superfluous cognitive load" (Mohamed Cassim, Jan 20), while Maureen De Jager insisted that "Assessing art requires time and a human element of interpretation, which cannot be easily short-circuited" (Maureen De Jager, Jan 22).
+Dina Ligaga: "Evaluates believability and authenticity—distinguishes between performed vs. genuine motivation...wants to see clear thinking about research direction, not vague statements" (Ligaga, Jan 12)
 
-**Tension 3: Technology vs. Human Judgment**
-While most reviewers see AI's potential, they resist replacement of human insight. Edzai wanted AI for "algorithmic/rubric scoring" but "rejects fully autonomous systems" (Edzai Conilias Zvobwo, Jan 13). This creates a complex integration challenge.
+**Creative Arts (Fine Art, Music, Performance):**
 
-**Tension 4: Individual Autonomy vs. Collective Consistency**
-Reviewers value their independent judgment but recognize the need for consistency. Ryan Nefdt emphasized making personal interpretative decisions while acknowledging the rubric "allows comparison" (Ryan Nefdt, Jan 21).
+**Portfolio Excellence (Highest Priority):**
 
-**Paradox 1: The Rubric Workaround**
-Reviewers simultaneously rely on and subvert the rubric system, suggesting it provides structure while constraining evaluation quality. This paradox indicates fundamental misalignment between tool design and user needs.
-
-**Paradox 2: The Authenticity Detection Challenge**
-Reviewers value authenticity but struggle to detect AI-generated content, creating an arms race between evaluation and manipulation that may undermine the entire premise of motivational assessment.
-
-## 6. Strategic Recommendations
-
-### 6.1 Quick Wins (Low effort, high impact)
-
-**Expand Rubric Granularity**
-Implement a 1-6 or 1-10 scoring scale to address the most common complaint. As Dina Ligaga noted, "Excellence can be 75% and sometimes it can be 90%" (Dina Ligaga, Jan 12). This simple change would reduce the need for scoring workarounds.
-
-**Provide Reviewer Score Comparisons**
-Address Freedom Gumedze's question: "I would like to know of the reviews that we have given, do they take a sort of combination of scores from the group?" (Freedom Gumedze, Jan 26) by providing anonymized peer comparison data.
-
-**Improve Application Interface**
-Fix Dina Ligaga's "multi-window interface" frustration (Dina Ligaga, Jan 12) with a single-screen design that reduces navigation complexity.
-
-**Create Review Timeline Flexibility**
-Address Pieter Pistorius's suggestion to "Start review process earlier" and "Allow time to 'sleep on' applications" (Pieter Pistorius, Jan 19) by extending review periods.
-
-### 6.2 System Design Priorities
-
-**Rubric Redesign**
-Develop discipline-specific rubric variations while maintaining core comparability. Martin Clark's call for "categories [that] could be more nebulous or change based on discipline" (Martin Clark, Jan 15) points toward flexible evaluation frameworks.
-
-**Reference Letter Standardization**
-Address Ryan Nefdt's observation that "recommendation letters lack comparative value" (Ryan Nefdt, Jan 21) by providing reference writers with comparative frameworks and standardized questions.
-
-**Application Quality Support**
-Address Edzai's observation about institutional disparities where "certain schools seem to teach how to answer applications effectively, while others produce applications with bad quality" (Edzai Conilias Zvobwo, Jan 13) through application preparation resources.
-
-**Reviewer Training and Calibration**
-Develop systematic reviewer onboarding to address the "cold start problem" Edzai identified (Edzai Conilias Zvobwo, Jan 13) and improve cross-reviewer consistency.
-
-### 6.3 AI Integration Strategy (phased approach)
-
-**Phase 1: Administrative Automation**
-Begin with low-risk, high-value tasks that all reviewers support:
-- Budget verification and calculation (Mohamed Cassim's suggestion)
-- Document completeness checking
-- Basic data extraction and organization
-- Timeline and deadline management
-
-**Phase 2: Information Enhancement**
-Implement AI tools that augment reviewer understanding:
-- Discipline-specific context provision (Ryan Nefdt's suggestion)
-- Institutional performance data compilation
-- Publication and citation analysis (Freedom Gumedze's "bibliometric analysis")
-- Comparative benchmarking data
-
-**Phase 3: Preliminary Assessment**
-Develop AI screening tools with human oversight:
-- Initial application filtering based on minimum requirements
-- Inconsistency flagging across application documents
-- Potential quality indicators for reviewer attention prioritization
-
-**Phase 4: Advanced Support (Future)**
-Consider more sophisticated assistance only after establishing trust:
-- Preliminary rubric population (as Dina Ligaga suggested) with full reviewer override
-- Draft assessment summaries for reviewer review and editing
-- Cross-application comparison insights
-
-### 6.4 Change Management
-
-**Gradual Introduction**
-Follow Martin Clark's openness to AI while addressing Frelet De Villiers's skepticism through voluntary adoption and demonstrated value before mandatory implementation.
-
-**Transparency and Control**
-Ensure reviewers understand AI decision-making processes and maintain full override capabilities, addressing Ryan Nefdt's need for "transparency and trusted insights" (Ryan Nefdt, Jan 21).
-
-**Training and Support**
-Provide comprehensive training on AI tool capabilities and limitations, building on reviewers' sophisticated understanding demonstrated by Edzai's observation that "AI as it is can't reason. It's purely statistical, probabilistic" (Edzai Conilias Zvobwo, Jan 13).
-
-**Feedback Loops**
-Establish regular feedback mechanisms to understand AI tool effectiveness and reviewer satisfaction, addressing the current feedback gap multiple reviewers noted.
-
-### 6.5 Risk Mitigation
-
-**AI-Generated Content Detection**
-Address Philippe Burger's concern about "increasing prevalence of AI-generated essays" (Philippe Burger, Jan 13) through:
-- Advanced detection tools
-- Interview components for high-stakes applications
-- Writing sample verification processes
-
-**Bias Amplification Prevention**
-Address Mohamed Cassim's warning that "AI right now... by its very nature would go on historic trends" (Mohamed Cassim, Jan 20) through:
-- Regular bias auditing of AI recommendations
-- Diverse training data curation
-- Human oversight requirements for all AI-assisted decisions
-
-**Reviewer Agency Preservation**
-Maintain the autonomy that reviewers like Frasia Oosthuizen value: "I prefer making those judgment calls because I don't want someone else to have told me" (Frasia Oosthuizen, Jan 27).
-
-**Quality Assurance**
-Implement safeguards against AI errors and ensure human reviewers can easily identify and correct AI mistakes, addressing Martin Clark's concern about "potential wrong answers" (Martin Clark, Jan 15).
-
-## 7. Interviewee Quick Reference
-
-**Dina Ligaga:** Brings humanities perspective with strong focus on authenticity and narrative coherence. Developed sophisticated rubric workarounds ("retrofitting scores") and is cautiously open to AI for preliminary screening while maintaining human override capabilities.
-
-**Edzai Conilias Zvobwo:** Provides STEM evaluation expertise with explicit bias awareness and social impact focus. Champions "human in the loop" AI approach and identified the "cold start problem" in review sequencing.
-
-**Freedom Gumedze:** Offers biostatistics background with comparative assessment experience across NRF and OMT systems. Advocates for systematic improvements including cross-reviewer calibration and consensus processes.
-
-**Frelet De Villiers:** Represents arts evaluation perspective with unique "start high, adjust down" scoring approach. Most skeptical of AI integration while emphasizing the irreplaceable value of human artistic interpretation.
-
-**Martin Clark:** Brings geological sciences expertise with strong anti-bias consciousness and holistic evaluation philosophy. Most AI-optimistic, seeing potential for logic validation and data enhancement while valuing "passion over cleverness."
-
-**Maureen De Jager:** Provides creative arts assessment expertise with portfolio-centric evaluation approach. Demonstrates nuanced AI understanding, seeing potential for administrative tasks while insisting creative assessment requires human interpretation.
-
-**Mohamed Cassim:** Contributes business/financial application expertise with emphasis on delivery probability over intent. Offers sophisticated AI vision as "cognitive assistant" while warning against historical bias in algorithmic decision-making.
-
-**Philippe Burger:** Brings economics perspective with increasing concern about AI-generated applications. Advocates for stricter verification processes and systematic approaches to distinguish authentic from artificial content.
-
-**Pieter Pistorius:** Provides engineering evaluation expertise with systematic approach emphasizing integrity and contextual assessment. Cautiously open to AI for preliminary screening while insisting humans make final decisions.
-
-**Ryan Nefdt:** Offers philosophy background with emphasis on narrative coherence and comparative evaluation within cycles. Interested in AI for discipline-specific context while maintaining preference for human interpretative judgment.
-
-**Frasia Oosthuizen:** Brings pharmaceutical sciences expertise with longest tenure and pre-digital system experience. Values independent judgment formation and holistic "picture creation" of candidates while being cautious about pre-interpretation by AI systems.
+Maureen De Jager: "It's actually quite critical if one's looking at a student wanting to go into a creative degree a practice-based masters or PhD is their portfolio and that evidence of practical excellence...because you can talk things up and especially with AI you know it's very easy to write a convincing proposal for a research project...and then you're sort of wondering how much of that is really this the student

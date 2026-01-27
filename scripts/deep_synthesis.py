@@ -15,8 +15,8 @@ API_KEY = os.environ.get("CLAUDE_API")
 TRANSCRIPTS_DIR = Path("/home/user/OMT-Review/Oppenheimer Memorial Trust/OMT Transcripts")
 OUTPUT_DIR = Path("/home/user/OMT-Review/scripts/analysis_output")
 
-SONNET_MODEL = "claude-sonnet-4-20250514"
-HAIKU_MODEL = "claude-3-5-haiku-20241022"
+SONNET_MODEL = "claude-sonnet-4-5"
+HAIKU_MODEL = "claude-haiku-4-5"
 
 client = anthropic.Anthropic(api_key=API_KEY)
 

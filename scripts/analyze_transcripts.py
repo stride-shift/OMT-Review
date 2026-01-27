@@ -20,8 +20,8 @@ TRANSCRIPTS_DIR = Path("/home/user/OMT-Review/Oppenheimer Memorial Trust/OMT Tra
 OUTPUT_DIR = Path("/home/user/OMT-Review/scripts/analysis_output")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-HAIKU_MODEL = "claude-3-5-haiku-20241022"
-SONNET_MODEL = "claude-sonnet-4-20250514"
+HAIKU_MODEL = "claude-haiku-4-5"
+SONNET_MODEL = "claude-sonnet-4-5"
 
 client = anthropic.Anthropic(api_key=API_KEY)
 

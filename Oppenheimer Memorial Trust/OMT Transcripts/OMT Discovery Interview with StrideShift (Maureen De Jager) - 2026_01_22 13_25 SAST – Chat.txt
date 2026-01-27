@@ -1,0 +1,7 @@
+00:01:15.080,00:01:18.080
+read.ai meeting notes: Shanne added read.ai meeting notes to the meeting (recording enabled).
+
+Read will generate a transcript of this meeting. Review our Terms of Service at https://read.ai/tos and Privacy Policy at https://read.ai/pp.
+
+Type "read stop" to disable, or "opt out" to delete meeting data.
+

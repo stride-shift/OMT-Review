@@ -1,0 +1,1571 @@
+{
+  "run_timestamp": "2026-01-30T07:19:24.615852",
+  "source_file": "/home/user/OMT-Review/Oppenheimer Memorial Trust/OMT Context/August 2025 Applications_Full.xlsx",
+  "sheet_name": "August 2025 call",
+  "stats": {
+    "total": 50,
+    "pass": 1,
+    "incomplete": 0,
+    "reject": 26,
+    "flag_review": 23,
+    "skipped": 0,
+    "errors": 0
+  },
+  "results": [
+    {
+      "application_id": "2025-6809",
+      "primary_contact": "George Thulani koko",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Applied Sciences",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation relies heavily on pop culture reference (Back to the Future) as primary inspiration - somewhat generic for physics applicant",
+          "Motivation excerpt incomplete/truncated mid-sentence, preventing full assessment",
+          "Study description also truncated, missing conclusion and key details about methodology/timeline",
+          "Institutional name inconsistency: applicant lists 'University of Johanneburg' but motivation states 'University of Johannesburg' (spelling variation)",
+          "Applicant's own undergraduate institution appears to be University of Johannesburg, same as target institution - potential red flag for progression rather than advancement"
+        ],
+        "notes": "Application shows solid technical knowledge of the research topic with appropriate references and clear scientific rationale. However, incomplete excerpts limit assessment, and motivational framing relies on relatively generic inspiration narrative.",
+        "ai_generated_likelihood": "low",
+        "tokens_in": 758,
+        "tokens_out": 222
+      },
+      "processed_at": "2026-01-30T07:18:01.379656"
+    },
+    {
+      "application_id": "2025-6817",
+      "primary_contact": "Sarah Molepo",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Engineering & the Built Environment",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:01.580139"
+    },
+    {
+      "application_id": "2025-6830",
+      "primary_contact": "Andile Stingi",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Humanities",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation section contains incomplete sentences and cuts off mid-thought ('exploring the intersections of...')",
+          "Study description excerpt also cuts off incomplete ('focus groups and interviews with healthca...')",
+          "Motivation relies on generic phrasing ('passion for creating positive change', 'empathetic individual') that could apply broadly",
+          "No specific details provided about applicant's previous research experience or publications",
+          "Fieldwork section mentions 'a few public health institutions' without specificity on scope or sample size",
+          "No timeline provided for dissertation completion or study phases"
+        ],
+        "notes": "Application shows alignment between degree, study choice, and topic within South African context, but suffers from incomplete excerpts and generic language in motivation. Study design appears reasonable but lacks specificity in implementation details.",
+        "ai_generated_likelihood": "medium",
+        "tokens_in": 693,
+        "tokens_out": 221
+      },
+      "processed_at": "2026-01-30T07:18:05.809299"
+    },
+    {
+      "application_id": "2025-6845",
+      "primary_contact": "Thato Nsele",
+      "application_type": "Masters",
+      "institution": "International",
+      "faculty": "Performing & Creative Arts",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 16,
+        "present_field_count": 16
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:06.009825"
+    },
+    {
+      "application_id": "2025-6877",
+      "primary_contact": "Dimpho Chaoana",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Humanities",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:06.009982"
+    },
+    {
+      "application_id": "2025-6879",
+      "primary_contact": "Anomusa Magwa",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Humanities",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:06.010083"
+    },
+    {
+      "application_id": "2025-6888",
+      "primary_contact": "Lehlohonolo Yphodiah Mapatha",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Commerce & Management",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "C",
+        "red_flags": [
+          "Motivation letter appears truncated/incomplete (ends mid-sentence with 'Acquiring this sch...')",
+          "Generic motivation content - focuses heavily on parental influence and high school performance rather than specific research interests or qualifications",
+          "Mismatch between application type (Masters) and stated program (Master MPhil) - unclear which degree is being pursued",
+          "Study topic (frugal innovations in water management for mining) not clearly connected to stated Faculty (Commerce & Management) or supervisor role (Environmental Compliance)",
+          "Vague study description provided appears to be generic program information rather than applicant's specific research proposal",
+          "No evidence of relevant undergraduate qualifications, prior research experience, or technical expertise in stated topic",
+          "Contact information listed as supervisor role but email appears to be personal (Yphodiahlym@gmail.com)"
+        ],
+        "notes": "Application shows structural and content deficiencies requiring significant clarification. Incomplete motivation letter, unclear program alignment, and lack of specific research evidence raise concerns about application completeness and applicant's genuine engagement with the proposed study.",
+        "ai_generated_likelihood": "low",
+        "tokens_in": 675,
+        "tokens_out": 287
+      },
+      "processed_at": "2026-01-30T07:18:09.797283"
+    },
+    {
+      "application_id": "2025-6907",
+      "primary_contact": "Lara Stevens",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Natural Sciences",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation section lacks connection to research topic - focuses heavily on personal background (family, sports, schools) rather than academic drive or research rationale",
+          "Motivation excerpt appears incomplete/truncated, making full assessment difficult",
+          "Study description excerpt is also truncated, preventing complete evaluation of research scope and methodology",
+          "Minor spelling error: 'environmnetal' instead of 'environmental' in study topic"
+        ],
+        "notes": "Application shows a coherent research topic relevant to Geo Environmental Science and appropriate institution selection, but the motivation section fails to articulate clear academic motivation or connection between personal background and research goals. Truncated excerpts limit assessment of overall quality.",
+        "ai_generated_likelihood": "low",
+        "tokens_in": 743,
+        "tokens_out": 192
+      },
+      "processed_at": "2026-01-30T07:18:14.003300"
+    },
+    {
+      "application_id": "2025-6911",
+      "primary_contact": "Falida Nkomo",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Humanities",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "C",
+        "red_flags": [
+          "Generic motivation statement with boilerplate phrasing ('heartfelt gratitude,' 'lasting and meaningful impact')",
+          "Unclear connection between research topic and motivation - motivation focuses on teaching aspirations rather than research justification",
+          "Vague and incomplete study description - appears truncated ('My topic will extend to the Blurred Memories of Home and t...')",
+          "Grammatical awkwardness and unclear sentence construction in motivation section",
+          "Missing essential application information (budget, timeline, institutional affiliation details)",
+          "Study topic descriptor incomplete and somewhat generic ('repatriation through cultural identity')"
+        ],
+        "notes": "Application contains concerning generic language and incomplete information sections. The motivation lacks specific articulation of research aims, and the study description is truncated, making full assessment difficult.",
+        "ai_generated_likelihood": "medium",
+        "tokens_in": 690,
+        "tokens_out": 222
+      },
+      "processed_at": "2026-01-30T07:18:17.601421"
+    },
+    {
+      "application_id": "2025-6919",
+      "primary_contact": "Khothatso Lebesana",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Natural Sciences",
+      "status": "Discarded",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Discarded in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:17.801995"
+    },
+    {
+      "application_id": "2025-6927",
+      "primary_contact": "Ofile Oleseng",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Social Sciences",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:17.802178"
+    },
+    {
+      "application_id": "2025-6931",
+      "primary_contact": "Banathi Sihole",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Law",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:17.802279"
+    },
+    {
+      "application_id": "2025-6939",
+      "primary_contact": "Sibulele Mvenyeza",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Health Sciences",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation excerpt incomplete/truncated mid-sentence",
+          "Study description lacks specific detail about dissertation topic and research methodology",
+          "No information provided on financial need, budget requirements, or funding justification",
+          "Generic motivational language ('make a difference', 'voice of the voiceless') without specific examples",
+          "Timeline for Masters programme not specified"
+        ],
+        "notes": "Application shows genuine interest in genetic counselling with relevant academic background (Honours in Medical Laboratory Sciences, Human Genetics focus). However, critical sections are incomplete and lack the specificity expected for a strong Masters scholarship application.",
+        "ai_generated_likelihood": "low",
+        "tokens_in": 601,
+        "tokens_out": 175
+      },
+      "processed_at": "2026-01-30T07:18:20.081309"
+    },
+    {
+      "application_id": "2025-6941",
+      "primary_contact": "Mukovhe Seaba",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Engineering & the Built Environment",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:20.282200"
+    },
+    {
+      "application_id": "2025-6952",
+      "primary_contact": "Mbali Ngobese",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Health Sciences",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Study topic list is unfocused\u2014appears to be a collection of subject areas rather than a specific research focus",
+          "Motivation excerpt cuts off mid-sentence, making it incomplete for full assessment",
+          "Study description reads like institutional brochure material rather than applicant's own articulation of their research direction",
+          "No specific research question, thesis title, or defined research methodology mentioned",
+          "Vague reference to 'practical contributions' without concrete examples provided"
+        ],
+        "notes": "Application shows genuine motivation and relevant academic background, but lacks specific research focus and depth. Applicant is already enrolled at target institution, which is unusual for a scholarship application.",
+        "ai_generated_likelihood": "medium",
+        "tokens_in": 741,
+        "tokens_out": 190
+      },
+      "processed_at": "2026-01-30T07:18:23.580993"
+    },
+    {
+      "application_id": "2025-6956",
+      "primary_contact": "Nthabiseng Letsatsi",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Health Sciences",
+      "status": "Submitted",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation excerpt is generic and could apply to many public health applicants (references to 'equity, empathy, continuous learning' are common phrases)",
+          "Study description is incomplete and vague - mentions 'will only begin in July' suggesting application submitted before planning is finalized",
+          "Dissertation topic not yet finalized despite being core component of application",
+          "Limited detail on specific research methodology or expected outcomes",
+          "Practicum details are aspirational rather than confirmed (states 'particularly interested in being involved' rather than 'arranged to work with')"
+        ],
+        "notes": "Application shows alignment between program (MPH Health Systems) and study topic (cervical cancer screening integration). However, applicant appears to be in early planning stages with incomplete preparation for final year work. Motivation lacks specificity about this candidate's unique background.",
+        "ai_generated_likelihood": "medium",
+        "tokens_in": 709,
+        "tokens_out": 228
+      },
+      "processed_at": "2026-01-30T07:18:26.785546"
+    },
+    {
+      "application_id": "2025-6972",
+      "primary_contact": "Tshau Radzhadzhi",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Health Sciences",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:26.986266"
+    },
+    {
+      "application_id": "2025-7025",
+      "primary_contact": "Bwateketa KABENGELE",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Applied Sciences",
+      "status": "Submitted",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation excerpt appears incomplete/truncated mid-sentence",
+          "Generic opening phrasing ('Greetings', 'enthusiastic and dedicated professional') suggests boilerplate text",
+          "Vague statement about 'financial constraints and resource limitations' without specific details",
+          "Dissertation topic explicitly noted as unconfirmed, creating uncertainty about research direction",
+          "Study description contains informal language ('I am busy with') inconsistent with formal application tone"
+        ],
+        "notes": "Applicant has relevant academic progression (Statistics \u2192 Operations Research \u2192 Data Science MSc) and substantive capstone project on healthcare ML. Application meets basic requirements but lacks specificity in motivation and contains stylistic inconsistencies suggesting incomplete editing.",
+        "ai_generated_likelihood": "medium",
+        "tokens_in": 715,
+        "tokens_out": 203
+      },
+      "processed_at": "2026-01-30T07:18:30.595815"
+    },
+    {
+      "application_id": "2025-7036",
+      "primary_contact": "Aluwani Chokoe",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Commerce & Management",
+      "status": "Submitted",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Study topic title differs from motivation narrative - 'Effectiveness of DFIs in driving economic growth' vs 'role of DFIs in addressing socio-economic challenges in Gauteng'",
+          "Motivation excerpt cuts off mid-sentence, incomplete information provided",
+          "Secondary research objectives include generic/repetitive language ('determine the role' appears twice with minimal distinction)",
+          "Missing critical application sections - no budget, timeline, or methodology details provided for assessment"
+        ],
+        "notes": "Application shows relevant academic background and demonstrated community engagement aligned with development finance focus. However, inconsistent framing between stated study choice and objectives, incomplete motivation text, and missing substantive study plan details warrant clarification.",
+        "ai_generated_likelihood": "low",
+        "tokens_in": 677,
+        "tokens_out": 197
+      },
+      "processed_at": "2026-01-30T07:18:34.151818"
+    },
+    {
+      "application_id": "2025-7083",
+      "primary_contact": "Ayabulela maqokolo",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Health Sciences",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:34.352203"
+    },
+    {
+      "application_id": "2025-7091",
+      "primary_contact": "Thulani Dimisani Sibiya",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Natural Sciences",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:34.352349"
+    },
+    {
+      "application_id": "2025-7103",
+      "primary_contact": "CAROLINE KHOZA",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Humanities",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:34.352429"
+    },
+    {
+      "application_id": "2025-7115",
+      "primary_contact": "Nicholus sukumani",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Engineering & the Built Environment",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Multiple spelling/grammar errors: 'Tittle' (should be 'Title'), 'chermistry' (should be 'chemistry'), 'i' should be capitalized throughout",
+          "Motivation excerpt cuts off mid-sentence, incomplete submission",
+          "Study description excerpt also cuts off, preventing full assessment",
+          "Generic framing of passion for environmental work, though supported by specific institutional involvement"
+        ],
+        "notes": "Application shows genuine local context and specific research focus on South African green technology, but presentation quality is compromised by careless errors and incomplete excerpts. Applicant's trajectory (geography teacher inspiration \u2192 environmental science \u2192 geography honours \u2192 environmental management masters) is logical and well-motivated despite socioeconomic constraints.",
+        "ai_generated_likelihood": "low",
+        "tokens_in": 763,
+        "tokens_out": 206
+      },
+      "processed_at": "2026-01-30T07:18:37.935766"
+    },
+    {
+      "application_id": "2025-7141",
+      "primary_contact": "Fikelela Poswa",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Humanities",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "C",
+        "red_flags": [
+          "Mismatch between study choice (Masters in African languages) and dissertation topic (causes of broken marriages) - lacks clear connection",
+          "Motivation statement is generic and doesn't explain how African languages connect to the research topic",
+          "Problem statement uses informal language ('marriage is a nightmare', 'jail') and lacks academic rigor",
+          "Study description appears incomplete and lacks methodological framework",
+          "No clear explanation of how linguistics/African languages expertise will be applied to sociological research on divorce",
+          "Motivation focuses on public administration aspirations rather than academic research goals"
+        ],
+        "notes": "Application shows significant misalignment between stated degree program (African languages) and proposed research focus (sociology of marriage). Motivation and study descriptions lack academic depth and specificity.",
+        "ai_generated_likelihood": "low",
+        "tokens_in": 716,
+        "tokens_out": 213
+      },
+      "processed_at": "2026-01-30T07:18:41.997650"
+    },
+    {
+      "application_id": "2025-7147",
+      "primary_contact": "Sefako Oscar Mosiane",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Humanities",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:42.198783"
+    },
+    {
+      "application_id": "2025-7164",
+      "primary_contact": "Haajira Khoza",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Humanities",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:42.198947"
+    },
+    {
+      "application_id": "2025-7167",
+      "primary_contact": "Thuso Walter KHAMELI",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Health Sciences",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:42.199054"
+    },
+    {
+      "application_id": "2025-7178",
+      "primary_contact": "Ntando Dlamini",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Health Sciences",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:42.199144"
+    },
+    {
+      "application_id": "2025-7179",
+      "primary_contact": "Zandile Maluleke",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Health Sciences",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation text appears incomplete/truncated mid-sentence",
+          "Study description also appears incomplete/truncated mid-sentence",
+          "Motivation includes irrelevant personal details (parents' divorce, mother's psychology degree, podcast interests) that don't connect to scholarship rationale",
+          "No explicit connection made between personal background and the specific research topic",
+          "Missing information on research methodology, timeline, or preliminary literature review"
+        ],
+        "notes": "Application demonstrates clear career pathway in audiology with a legitimate research gap identified. However, incomplete submission and unfocused motivation narrative weaken the overall presentation.",
+        "ai_generated_likelihood": "low",
+        "tokens_in": 719,
+        "tokens_out": 176
+      },
+      "processed_at": "2026-01-30T07:18:45.555962"
+    },
+    {
+      "application_id": "2025-7181",
+      "primary_contact": "Mahlatse Masia",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Applied Sciences",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation letter is incomplete/truncated mid-sentence",
+          "Study description is incomplete/truncated mid-sentence",
+          "Generic opening language in motivation ('express my strong interest', 'deeply committed') with limited personalization",
+          "No information provided on budget, timeline, or funding amount requested",
+          "No details on applicant's prior academic performance metrics or specific achievements",
+          "Theoretical pure mathematics project with stated 'no experimental or fieldwork component' - funding rationale unclear"
+        ],
+        "notes": "Application contains substantive research topic appropriately matched to institution and program, but submission appears incomplete with truncated sections and missing financial/timeline details. Motivation lacks specificity about applicant's individual qualifications.",
+        "ai_generated_likelihood": "medium",
+        "tokens_in": 687,
+        "tokens_out": 203
+      },
+      "processed_at": "2026-01-30T07:18:50.879731"
+    },
+    {
+      "application_id": "2025-7197",
+      "primary_contact": "Azwihangwisi Netshamutavha",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Law",
+      "status": "Submitted",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation text appears truncated/incomplete ('I completed my pri...')",
+          "Study description excerpt also truncated, objectives incomplete ('1. Critically a...')",
+          "Multiple grammatical errors in motivation ('I am an orphan, who grow up', 'I was the first on to go')",
+          "Inconsistent capitalization and formatting in motivation section",
+          "Study topic title appears truncated in application data field"
+        ],
+        "notes": "Application shows legitimate research focus on South African public procurement law with strong personal motivation grounded in genuine hardship. However, significant portions of the application are incomplete or cut off, making full assessment difficult.",
+        "ai_generated_likelihood": "low",
+        "tokens_in": 772,
+        "tokens_out": 189
+      },
+      "processed_at": "2026-01-30T07:18:53.528471"
+    },
+    {
+      "application_id": "2025-7208",
+      "primary_contact": "Katlego Papalagae",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Humanities",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:18:53.729137"
+    },
+    {
+      "application_id": "2025-7211",
+      "primary_contact": "Reabetswe Maputle",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Health Sciences",
+      "status": "Under Review",
+      "filter_decision": "PASS",
+      "filter_reason": "Passed all Phase 1 checks",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "A",
+        "red_flags": [],
+        "notes": "Strong application with clear research focus, relevant credentials (BSc Medical Science, Honours Pharmacology with distinction), and well-defined study objectives. Applicant demonstrates genuine commitment through science mentorship roles and organizations.",
+        "ai_generated_likelihood": "low",
+        "tokens_in": 785,
+        "tokens_out": 90
+      },
+      "processed_at": "2026-01-30T07:18:57.850297"
+    },
+    {
+      "application_id": "2025-7213",
+      "primary_contact": "Levy Maine",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Commerce & Management",
+      "status": "Submitted",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation excerpt appears truncated mid-sentence ('much like t...')",
+          "Study description excerpt truncated and incomplete ('growing entities' appears unfinished)",
+          "Minor grammatical inconsistency: 'first generation' should be capitalized as start of sentence",
+          "Study description lacks specificity about research methodology or expected outcomes"
+        ],
+        "notes": "Application shows strong professional background and clear alignment between experience (15 years in financial services, trade finance) and study choice (Development Finance with SME export focus). However, incomplete excerpts and vague research articulation prevent higher rating.",
+        "ai_generated_likelihood": "low",
+        "tokens_in": 598,
+        "tokens_out": 175
+      },
+      "processed_at": "2026-01-30T07:19:00.952092"
+    },
+    {
+      "application_id": "2025-7235",
+      "primary_contact": "Qiniso Sithole",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Humanities",
+      "status": "Submitted",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation excerpt incomplete - text cuts off mid-sentence ('guided by a personal philosophy that emphasizes empathy, compas...')",
+          "Study Description excerpt incomplete - cuts off before research methodology details",
+          "Generic phrasing in problem statement ('significant threat', 'research gap', 'evidence-based practices') suggests potential templated language",
+          "No information provided on proposed research methodology, timeline, or budget despite these being critical for Masters applications"
+        ],
+        "notes": "Application shows strong academic credentials and clear topical alignment between Social Work degree and proposed Masters study. However, incomplete excerpts and generic phrasing prevent full assessment of originality and clarity of research vision.",
+        "ai_generated_likelihood": "medium",
+        "tokens_in": 724,
+        "tokens_out": 192
+      },
+      "processed_at": "2026-01-30T07:19:03.783146"
+    },
+    {
+      "application_id": "2025-7266",
+      "primary_contact": "Xesibe Mcaleni",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Engineering & the Built Environment",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:19:03.984219"
+    },
+    {
+      "application_id": "2025-7269",
+      "primary_contact": "Azola Mtsali",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Social Sciences",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation excerpt includes extensive personal biography (herd boy background, school history) that takes space from articulating scholarship rationale",
+          "Study description excerpt is incomplete/truncated, making full assessment difficult",
+          "No information provided on funding amount requested, timeline, or other application logistics",
+          "Vague comparative framework - mentions Australia scholarship but doesn't clearly explain how applicant's Cape study advances beyond existing literature"
+        ],
+        "notes": "Application shows legitimate research focus with clear historical topic and institutional enrollment. However, incomplete submission materials and unfocused motivation narrative prevent higher assessment. Personal narrative, while potentially relevant for context, dominates over scholarship articulation.",
+        "ai_generated_likelihood": "low",
+        "tokens_in": 738,
+        "tokens_out": 186
+      },
+      "processed_at": "2026-01-30T07:19:08.693429"
+    },
+    {
+      "application_id": "2025-7275",
+      "primary_contact": "Mzameleni Mthinjwa",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Health Sciences",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:19:08.894463"
+    },
+    {
+      "application_id": "2025-7277",
+      "primary_contact": "Kaho Daniel",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Health Sciences",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:19:08.894629"
+    },
+    {
+      "application_id": "2025-7313",
+      "primary_contact": "GOITSEMODIMO MOLEFI",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Applied Sciences",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:19:08.894723"
+    },
+    {
+      "application_id": "2025-7321",
+      "primary_contact": "Amanda Mbimbi",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Humanities",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:19:08.894810"
+    },
+    {
+      "application_id": "2025-7329",
+      "primary_contact": "Gabriel Rossouw",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Performing & Creative Arts",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:19:08.894893"
+    },
+    {
+      "application_id": "2025-7341",
+      "primary_contact": "Khanyisile Nkuna",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Applied Sciences",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:19:08.894976"
+    },
+    {
+      "application_id": "2025-7351",
+      "primary_contact": "Sandile Biyela",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Engineering & the Built Environment",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation excerpt incomplete and cuts off mid-sentence",
+          "Study description excerpt incomplete and cuts off mid-sentence",
+          "Typo in study topic: 'Maize Comb' should likely be 'Maize Cob'",
+          "Generic opening paragraph in motivation section ('My name is Sandile Biyela, and I received my degree...')",
+          "Incomplete application data prevents full assessment of key sections"
+        ],
+        "notes": "Application shows promising alignment between applicant's background (Agricultural Engineering), institution choice, and research topic (solar drying technology for smallholders). However, submission appears incomplete with truncated motivation and study description sections, and contains a likely typographical error that raises questions about proofreading.",
+        "ai_generated_likelihood": "low",
+        "tokens_in": 751,
+        "tokens_out": 212
+      },
+      "processed_at": "2026-01-30T07:19:12.794983"
+    },
+    {
+      "application_id": "2025-7354",
+      "primary_contact": "Thamsanqa Mbokazi",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Humanities",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation excerpt cuts off mid-sentence, making full assessment difficult",
+          "Study description excerpt also incomplete, limiting ability to assess depth and specificity",
+          "Generic phrasing in motivation ('making a tangible impact on society through evidence-based') is somewhat formulaic",
+          "No budget information provided in application data",
+          "No timeline information provided for Masters completion"
+        ],
+        "notes": "Applicant demonstrates strong academic credentials and relevant background in Public Administration with clear connection to study topic. However, incomplete excerpts prevent full assessment of research depth, originality, and realistic implementation plans.",
+        "ai_generated_likelihood": "low",
+        "tokens_in": 688,
+        "tokens_out": 174
+      },
+      "processed_at": "2026-01-30T07:19:16.177708"
+    },
+    {
+      "application_id": "2025-7364",
+      "primary_contact": "Irshaad Suliman",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Social Sciences",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation excerpt contains generic phrasing ('highly motivated and dedicated individual', 'significant positive impact') that could apply broadly",
+          "Motivation text appears incomplete/truncated mid-sentence",
+          "Study description also appears incomplete/truncated mid-word ('gendere...')",
+          "No information provided on applicant qualifications, previous academic performance, or timeline"
+        ],
+        "notes": "Application addresses relevant subject matter aligned with Trust's focus on South African history and social justice. However, significant portions appear incomplete, and motivation contains some generic language alongside substantive research content.",
+        "ai_generated_likelihood": "medium",
+        "tokens_in": 692,
+        "tokens_out": 171
+      },
+      "processed_at": "2026-01-30T07:19:18.682029"
+    },
+    {
+      "application_id": "2025-7376",
+      "primary_contact": "Fatima Phomelelo Ramokgopa",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Health Sciences",
+      "status": "Under Review",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation section contains generic boilerplate content (values of 'respect, empathy, perseverance' repeated; leisure time activities incomplete/truncated)",
+          "Study description abruptly cuts off mid-sentence, suggesting incomplete submission",
+          "Mismatch: Application lists 'Faculty: Health Sciences' but applicant's background is Environmental Sciences and Chemistry (not health-related)",
+          "No clear connection established between personal background/values and the specific research topic"
+        ],
+        "notes": "Application addresses a legitimate research problem with sound scientific rationale, but motivation lacks specificity and personalization. Submission appears incomplete with truncated text sections.",
+        "ai_generated_likelihood": "medium",
+        "tokens_in": 721,
+        "tokens_out": 186
+      },
+      "processed_at": "2026-01-30T07:19:21.737574"
+    },
+    {
+      "application_id": "2025-7378",
+      "primary_contact": "Busisiwe Mooin",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Humanities",
+      "status": "Submitted",
+      "filter_decision": "FLAG_REVIEW",
+      "filter_reason": "Red flags detected",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": true,
+        "eligibility_issues": [],
+        "eligibility_warnings": []
+      },
+      "quality": {
+        "quality_tier": "B",
+        "red_flags": [
+          "Motivation excerpt ends abruptly mid-sentence ('opportun...'), suggesting incomplete submission or copy-paste error",
+          "Generic opening phrases ('express my interest in applying') that could apply to any scholarship",
+          "Limited detail on why this specific scholarship or institution aligns with applicant's goals",
+          "No mention of financial need or personal circumstances justifying scholarship support"
+        ],
+        "notes": "Applicant has strong academic credentials with clear progression from BA to Honours to MA in relevant field, with a specific and timely dissertation focus. However, the motivation statement appears incomplete and lacks personalized detail about scholarship fit.",
+        "ai_generated_likelihood": "low",
+        "tokens_in": 616,
+        "tokens_out": 178
+      },
+      "processed_at": "2026-01-30T07:19:24.415029"
+    },
+    {
+      "application_id": "2025-7391",
+      "primary_contact": "Hloniphile Ndhlovu",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Health Sciences",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:19:24.615421"
+    },
+    {
+      "application_id": "2025-7392",
+      "primary_contact": "Sedzani Sebatha",
+      "application_type": "Masters",
+      "institution": "Local",
+      "faculty": "Engineering & the Built Environment",
+      "status": "Not Eligible",
+      "filter_decision": "REJECT",
+      "filter_reason": "Failed eligibility check",
+      "completeness": {
+        "is_complete": true,
+        "missing_fields": [],
+        "insufficient_fields": [],
+        "required_field_count": 15,
+        "present_field_count": 15
+      },
+      "eligibility": {
+        "is_eligible": false,
+        "eligibility_issues": [
+          "Application marked as Not Eligible in system"
+        ],
+        "eligibility_warnings": []
+      },
+      "quality": null,
+      "processed_at": "2026-01-30T07:19:24.615784"
+    }
+  ]
+}

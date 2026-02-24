@@ -22,16 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# Environment files
-.env
-.env.local
-.env.*.local
-
-# Test/generated files
-*.png
-test-*.ts
-test-*.json
-
-# Supabase temp files
-supabase/.temp/
